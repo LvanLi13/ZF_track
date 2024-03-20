@@ -1,5 +1,4 @@
-
-
+# Can not run 🙂 (not responding in VSC) 
 
 import cv2
 import os
@@ -13,7 +12,7 @@ num_cols = 8
 roi_radius = 30
 
 # Create output folder if it doesn't exist
-os.makedirs(output_folder, exist_ok=True)
+os.makedirs(Output_ROIs, exist_ok=True)
 
 # Read video
 vid_path = 'E:\open\myenv\Resized_ZF_96p_240221.mp4'
