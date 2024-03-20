@@ -1,0 +1,11 @@
+Bản phân phối Anaconda
+IDE Visual Studio Code (VSC)
+Ngôn ngữ lập trình Python
+
+Tạo môi trường trong VSC: 
+	cmd (trong VSC)
+		> python -m venv myenv
+		> myenv\Scripts\activate
+		
+Thư viện OpenCV: 
+		> pip install opencv-python
