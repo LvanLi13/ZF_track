@@ -1,3 +1,7 @@
+# Vẽ 1 ROI hình chữ nhật bao quanh toàn bộ khu vực giếng có cá. 
+# Tự động phân thành 48 ROIs hình chữ nhật nhỏ hơn tương ứng với 48 khu vực giếng có cá. 
+# ROIs vẽ cố định, không di chuyển được.
+
 import cv2
 import numpy as np
 import os
