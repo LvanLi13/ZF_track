@@ -1,3 +1,7 @@
+# Vẽ + phân chia ROI hình chữ nhật. 
+# Bổ sung function vẽ ROIs tròn nội tiếp bên trong mỗi ROIs hình chữ nhật nhỏ và bao quanh giếng. 
+# Chưa có function crop video theo ROIs + lưu video sau crop.
+
 import cv2
 import numpy as np
 import os
